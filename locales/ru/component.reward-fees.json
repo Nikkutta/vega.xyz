@@ -1,12 +1,12 @@
 {
-  "Coming soon": "",
-  "Trading": "",
+  "Coming soon": "Скоро будет",
+  "Trading": "Торговля",
   "Distributed based on the proportion of the total maker fees you've paid, in this epoch per market.": "",
-  "Trade": "",
-  "Liquidity Provision": "",
+  "Trade": "Торговля",
+  "Liquidity Provision": "Обеспечение ликвидности",
   "Distributed based on the proportion of the total liquidity and maker fees you have received, in this epoch per market.": "",
-  "Provide liquidity": "",
-  "Market Creation": "",
+  "Provide liquidity": "Обеспечить ликвидность",
+  "Market Creation": "Создание рынка",
   "For markets that meet the threshold value in a month. The current threshold is 1 $VEGA": "",
-  "Create a market": ""
+  "Create a market": "Создайте рынок"
 }
